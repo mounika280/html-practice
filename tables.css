@@ -1,0 +1,23 @@
+table ,th ,td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+table.n, table.n th, table.n td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+table.n th, table.n td {
+  background-color: #96D4D4;
+}
+
+table.m,table.m th, table.m td {
+  border: 1px solid black;
+  border-radius: 10px;
+   border-collapse: separate;
+}
+table.p th,table.p td {
+  border-style:solid;
+  border-color: #96D4D4;
+}
