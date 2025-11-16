@@ -1,0 +1,43 @@
+.n {
+  border-collapse: collapse;
+  width: 100%;
+}
+.n th,.n td {
+  text-align: left;
+  padding: 8px;
+}
+.n tr:nth-child(odd) {
+  background-color: #c2efef;
+}
+
+
+.m,.m th,.m td {
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+.m th:nth-child(even),.m td:nth-child(even){
+  background-color: #D6EEEE;
+}
+
+.p {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.p tr {
+  border-bottom: 1px solid #DDD;
+}
+
+
+
+.s{
+  border-collapse: collapse;
+  width: 100%;
+}
+.s th,.s td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+}
+
+.s tr:hover {background-color: #D6EEEE;}
