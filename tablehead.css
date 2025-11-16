@@ -1,0 +1,23 @@
+table,th,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table.m, table.m th,table.m td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table.m th {
+  text-align: left;
+}
+
+table.n,table.n th,table.n td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table.p,table.p th,table.p td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
