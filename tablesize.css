@@ -3,7 +3,7 @@ table, th, td {
   border-collapse: collapse;
 }
 
-table.n, table.n th,table.n td {
+.n, .n th,.n td {
   border:1px solid black;
   border-collapse: collapse;
 }

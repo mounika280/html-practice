@@ -3,20 +3,20 @@ table,th,td
     border: 1px solid black;
     border-collapse: collapse;
 }
-table.m, table.m th,table.m td {
+.m, .m th,.m td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-table.m th {
+.m th {
   text-align: left;
 }
 
-table.n,table.n th,table.n td {
+.n,.n th,.n td {
   border: 1px solid black;
   border-collapse: collapse;
 }
 
-table.p,table.p th,table.p td
+.p,.p th,.p td
 {
     border: 1px solid black;
     border-collapse: collapse;
